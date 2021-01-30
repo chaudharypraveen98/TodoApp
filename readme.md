@@ -8,4 +8,4 @@ This is a basic todo app built on the top react native with the help of expo cli
 3. Great UI and UX design
 
 #### App Preview : -
-<img src="assets/ss.jpeg" alt="image preview" height="300">
+<p align="center"><img src="assets/ss.jpeg" alt="image preview" height="350" style={text-align:center;}></p>
