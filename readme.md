@@ -9,3 +9,6 @@ This is a basic todo app built on the top react native with the help of expo cli
 
 #### App Preview : -
 <img src="assets/ss.jpeg" alt="image preview" height="300" width="200">
+
+##### Note :- 
+Feel free to make changes and pull request. 
